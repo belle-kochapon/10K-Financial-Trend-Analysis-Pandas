@@ -40,12 +40,13 @@ The `financial_analysis_notebook.ipynb` details the full analysis, but key insig
 
 * **Data Preprocessing:** Robust cleaning procedures were implemented to handle financial data format inconsistencies (e.g., commas), ensuring accurate numerical calculations. All relevant financial columns were converted to numeric types (`int64`).
 * **Year-over-Year Growth Calculation:** New columns were dynamically created to represent the percentage change for each financial metric across consecutive fiscal years, enabling direct comparison of performance trends.
+* **Data Preparation:** Financial data was cleaned (e.g., removing commas) and converted to numeric types (`int64`) for accurate calculations. Year-over-year percentage growth metrics were then dynamically calculated for key financial indicators.
 * **Company Performance Profiles:**
-    * **Microsoft:** Demonstrated **strong and consistent growth** across all key financial metrics. Average revenue growth was approximately **6.17%**, with healthy average growth in Net Income (~2.62%) and Operating Cash Flow (~7.69%). This indicates stable market demand and efficient operations.
-    * **Tesla:** Characterised by **rapid expansion**, particularly in assets (average ~14.66% growth) and liabilities (~10.18%). While showing strong average revenue growth (~6.58%), its Net Income experienced **significant volatility** with an average decline (~-11.09%), pointing to challenges in consistent profitability during its growth phase.
-    * **Apple:** Represents a **mature market leader**, showing largely stable revenue but slight average declines in Net Income and Operating Cash Flow over the period. Its immense scale and strong absolute financial figures underscore its stability, even with more modest or flat percentage growth rates.
-* **Comparative Analysis:** The project highlights the varying growth stages and financial health profiles of these tech giants, from Microsoft's steady and balanced growth to Tesla's aggressive expansion, and Apple's mature stability.
+    * **Microsoft:** Demonstrated **strong, consistent growth** across most metrics. Achieved average revenue growth of ~6.17%, Net Income growth of ~2.62%, and Operating Cash Flow growth of ~7.69%, indicating stable operations.
+    * **Tesla:** Characterised by **rapid expansion** with high average asset (~14.66%) and liability (~10.18%) growth, alongside solid average revenue growth (~6.58%). However, Net Income was highly volatile, averaging a decline of ~-11.09%, reflecting profitability challenges.
+    * **Apple:** A **mature market leader**, showing largely stable revenue but slight average declines in Net Income (~-3.09%) and Operating Cash Flow (~-1.26%). Its immense scale underpins its stability despite modest percentage changes.
 
+* **Comparative Insights:** The analysis highlights distinct growth stages: Microsoft's balanced and stable growth, Tesla's aggressive but volatile expansion, and Apple's mature, large-scale stability. All generate strong cash flow from operations.
 ## How to View/Run the Project
 
 1.  **Clone the Repository:**
