@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the solution for Task 1 of the Boston Consulting Group (BCG) Forage Generative AI Virtual Internship (https://www.theforage.com/simulations/bcg/gen-ai-anlo). As a junior data scientist on the GenAI consulting team, my primary objective was to perform foundational data extraction and initial analysis of financial documents (10-K filings) for key companies. This analysis is a crucial first step towards developing an AI-powered chatbot designed to provide insights from financial reports.
+This repository contains the solution for Task 1 of the [Boston Consulting Group (BCG) Forage Generative AI Virtual Internship](https://www.theforage.com/simulations/bcg/gen-ai-anlo). As a junior data scientist on the GenAI consulting team, my primary objective was to perform foundational data extraction and initial analysis of financial documents (10-K filings) for key companies. This analysis is a crucial first step towards developing an AI-powered chatbot designed to provide insights from financial reports.
 
 The project demonstrates core data science skills in extracting, cleaning, and analysing structured financial data to identify significant trends and indicators.
 
