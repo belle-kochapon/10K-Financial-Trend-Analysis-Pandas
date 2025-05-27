@@ -51,7 +51,7 @@ The `financial_analysis_notebook.ipynb` details the full analysis, but key insig
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/belle-kochapon/10K-Financial-Trend-Analysis-Pandas.git](https://github.com/belle-kochapon/10K-Financial-Trend-Analysis-Pandas.git)
+    git clone https://github.com/belle-kochapon/10K-Financial-Trend-Analysis-Pandas.git
     ```
 2.  **Navigate to the Project Directory:**
     ```bash
